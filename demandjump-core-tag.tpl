@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DemandJump Core Tag",
+  "categories": ["ADVERTISING", "ANALYTICS", "ATTRIBUTION", "CONVERSIONS","MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
