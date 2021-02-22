@@ -16,8 +16,10 @@ homepage: "https://www.demandjump.com"
 documentation: "https://www.github.com/demandjump/demandjump-core-tag-gtm-template/README.md"
 versions:
   # LATEST VERSION
+  - sha: 00161277c9c61f2a7a7097642d151732e86f4734
+    changeNotes: removed unneeded log of user email address
+  # OLDER VERSIONS
   - sha: 0436938030c93ec5aed94ffdd1ca5bf972d077c0
     changeNotes: most updated version of template
-  # OLDER VERSIONS
   - sha: 8fb219fab27b80e5b74fe45d5d931e541618bb27
     changeNotes: Initial Version
