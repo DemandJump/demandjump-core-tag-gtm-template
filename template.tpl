@@ -99,8 +99,6 @@ rudderanalytics.load(
   sendAdblockPage: true
 });
 
-log(userEmail);
-
 rudderanalytics.page(
 {
   app_id:appId,
@@ -242,6 +240,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 2/22/2021, 12:03:33 PM
+Created on 2/22/2021, 12:48:33 PM
 
 
