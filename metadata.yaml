@@ -17,3 +17,5 @@ documentation: "https://www.github.com/demandjump/demandjump-core-tag-gtm-templa
 versions:
   - sha: 8fb219fab27b80e5b74fe45d5d931e541618bb27
     changeNotes: Initial Version
+  - sha: 7ed24b9523aa8f0a7d0a5461e6fa14a7d6aac678
+    changeNotes: Added categoires to metdata.yaml
