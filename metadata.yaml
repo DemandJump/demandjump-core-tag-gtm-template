@@ -15,5 +15,5 @@
 homepage: "https://www.demandjump.com"
 documentation: "https://www.github.com/demandjump/demandjump-core-tag-gtm-template/README.md"
 versions:
-  - sha: 
+  - sha: 8fb219fab27b80e5b74fe45d5d931e541618bb27
     changeNotes: Initial Version
