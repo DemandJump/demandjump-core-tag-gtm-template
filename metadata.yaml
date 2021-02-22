@@ -19,3 +19,5 @@ versions:
     changeNotes: Initial Version
   - sha: 7ed24b9523aa8f0a7d0a5461e6fa14a7d6aac678
     changeNotes: Added categoires to metdata.yaml
+  - sha: dbe5c7b815394cd77e4698f26ef8294c2a21fe2b
+    changeNotes: Updated template file filename
